@@ -1,9 +1,9 @@
 {
-  "name": "twa-syntax",
+  "name": "Atomic-TWA",
   "theme": "syntax",
   "version": "0.0.1",
-  "description": "A short description of your syntax theme",
-  "repository": "https://github.com/atom/twa-syntax",
+  "description": "Light syntax theme for Atom text editor.",
+  "repository": "https://github.com/william-index/Atomic-TWA",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
