@@ -7,6 +7,6 @@ Over the years I have adapted a certain color palette to all my environments tha
 
 Theme for front-end web + php devs. Focus is on focus and ease of readings/distinguishing content. Highlights embeded code sections.
 
-![HTML Sample](http://thewilliamanderson.com/github_images/atomic-twa/html_sample.png)
-![SaSS Sample](http://thewilliamanderson.com/github_images/atomic-twa/sass_sample.png)
-![JS Sample](http://thewilliamanderson.com/github_images/atomic-twa/js_sample.png)
+![HTML Sample](http://thewilliamanderson.com/github_images/atomic-twa/html_sample_v2.png)
+![SaSS Sample](http://thewilliamanderson.com/github_images/atomic-twa/sass_sample_v2.png)
+![JS Sample](http://thewilliamanderson.com/github_images/atomic-twa/js_sample_v2.png)
