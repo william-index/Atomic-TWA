@@ -28,13 +28,20 @@
     margin-right:10px;
 
     .line-number {
-      &.cursor-line {
+      &.cursor-line, &:hover {
         background-color: @very-light-gray;
         color: black;
       }
 
       &.cursor-line-no-selection {
         color:black;
+      }
+      .icon-right{
+        color:#000;
+        &:hover{
+          background:@very-light-gray;
+          cursor:pointer;
+        }
       }
     }
   }
