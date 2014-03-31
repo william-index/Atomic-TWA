@@ -1,7 +1,7 @@
 {
   "name": "Atomic-TWA",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Light syntax theme for Atom text editor.",
   "repository": "https://github.com/william-index/Atomic-TWA",
   "license": "MIT",
